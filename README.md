@@ -2,7 +2,7 @@
 
 > Fix broken JSON from APIs and data pipelines instantly. Free, offline, no login.
 
-**[→ Try it free](https://dpm-builds.github.io/json-cleaner-pro/app)** · **[Landing page](https://dpm-builds.github.io/json-cleaner-pro/)** · **[Chrome Extension](#)**
+**[→ Try it free](https://dpm-builds.github.io/json-cleaner-pro/app)** · **[Landing page](https://dpm-builds.github.io/json-cleaner-pro/)** · **[Chrome Extension](https://chromewebstore.google.com/detail/json-cleaner-pro/knihnokedmfneiagoabpmfgbhgpfjbig)**
 
 ---
 
@@ -61,4 +61,4 @@ No data collected. No analytics. No external requests except Google Fonts. [Full
 
 ---
 
-*Built by someone who got tired of broken JSON. Engine v2.8 — 31/31 tests passing.*
+*Built by someone who got tired of broken JSON. Engine v2.9 — 31/31 tests passing.*
