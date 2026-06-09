@@ -2,7 +2,7 @@
 
 > Fix broken JSON from APIs and data pipelines instantly. Free, offline, no login.
 
-**[→ Try it free](https://GauravChaudhary-GC.github.io/json-cleaner-pro/app)** · **[Landing page](https://GauravChaudhary-GC.github.io/json-cleaner-pro/)** · **[Chrome Extension](#)**
+**[→ Try it free](https://dpm-builds.github.io/json-cleaner-pro/app)** · **[Landing page](https://dpm-builds.github.io/json-cleaner-pro/)** · **[Chrome Extension](#)**
 
 ---
 
@@ -57,7 +57,7 @@ Vanilla HTML + CSS + JavaScript. Zero frameworks, zero npm, zero dependencies. W
 
 ## Privacy
 
-No data collected. No analytics. No external requests except Google Fonts. [Full privacy policy](https://GauravChaudhary-GC.github.io/json-cleaner-pro/privacy).
+No data collected. No analytics. No external requests except Google Fonts. [Full privacy policy](https://dpm-builds.github.io/json-cleaner-pro/privacy).
 
 ---
 
